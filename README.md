@@ -4,8 +4,6 @@
 
 15+ years building enterprise software and banking platforms — now focused on **AI-enabled engineering at scale**: agentic systems, automated code governance, and next-generation developer productivity.
 
-I design AI systems that engineering organizations actually run on. My current work unifies merge-request readiness, automated code review, database release validation, and release governance into a single AI-driven workflow across an 11-team programme and 50+ repositories.
-
 ---
 
 ### 🤖 What I work on
