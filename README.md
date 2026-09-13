@@ -1,47 +1,56 @@
 # Hi, I'm Banketeshvar Narayan 👋
 
-**Technical Lead (AVP) · Agentic AI Engineering · Microsoft MVP**
+**AVP Software Engineer · Technical Lead · Microsoft MVP**
 
-15+ years building enterprise software and banking platforms — now focused on **AI-enabled engineering at scale**: agentic systems, automated code governance, and next-generation developer productivity.
-
----
-
-### 🤖 What I work on
-
-- **Agentic AI engineering** — multi-agent orchestration, LangGraph, RAG, MCP-based workflows
-- **AI-assisted development in production** — GitLab Duo, GitHub Copilot, Claude Code, Amazon Kiro
-- **Enterprise modernization** — C#, .NET, SQL Server, Azure, microservices, DevSecOps
-- **Engineering governance** — automated code review, release validation, and quality gating
-
-### 🎓 Agentic AI Project Portfolio
-
-Verified project portfolio from the **Johns Hopkins University Agentic AI** program — multi-agent systems, RAG pipelines, and auditable AI workflows:
-
-👉 [View my Agentic AI portfolio](https://www.mygreatlearning.com/eportfolio/banketeshvar-narayan)
-
-Highlights: a multi-agent mortgage underwriting system (LangGraph, PII redaction, bias checks, human-in-the-loop), an autonomous financial research analyst, and a RAG evaluation pipeline (ChromaDB, LLM-as-Judge).
-
-### ✍️ I write about AI-assisted engineering
-
-I share practical, hands-on insights on agentic AI, developer productivity, and enterprise modernization — often on emerging tools ahead of enterprise adoption.
-
-👉 [bankyblueprints.com](https://bankyblueprints.com)
-
-### 🏆 Recognition
-
-- Microsoft MVP
-- 4× C# Corner MVP
-- Johns Hopkins University — Agentic AI Certified (2026)
-- Microsoft Certified: Azure Fundamentals (AZ-900)
+AI-enabled full-stack engineer with 15+ years of experience building enterprise software and banking platforms. I work across **.NET, Angular, Azure, Python, data engineering, DevOps, and agentic AI**, combining established enterprise architecture with practical AI-assisted engineering.
 
 ---
+
+### 💼 Core expertise
+
+- **Full-stack engineering** — C#, ASP.NET Core, Angular, TypeScript, JavaScript, REST APIs and microservices
+- **Cloud and data** — Azure, SQL Server, Snowflake, Dapper and data-integration workflows
+- **Agentic AI engineering** — LangGraph, RAG, MCP, multi-agent orchestration and human-in-the-loop systems
+- **AI-assisted software delivery** — GitHub Copilot, GitLab Duo, Claude Code and Kiro
+- **DevOps and governance** — GitLab CI/CD, automated code review, security scanning, release controls and engineering documentation
+
+### 🤖 Current engineering focus
+
+I am exploring how agentic systems and coding agents can improve real software-delivery workflows—not only code generation, but also requirements analysis, code review, validation, testing, documentation and governance.
+
+My current work includes reusable agentic architecture patterns, multi-agent code-review design, MCP integrations and AI-enabled developer workflows.
+
+### 🎓 Johns Hopkins Agentic AI program
+
+I completed the 16-week **Agentic AI program from Johns Hopkins University**, with 100% completion across weekly assessments and three graded projects:
+
+- **Mortgage Underwriter** — an agentic mortgage-assessment workflow
+- **Healthcare Human-in-the-Loop Assistant** — a healthcare workflow with human oversight
+- **Financial Research Analyst** — an agentic system for structured financial research
+
+Explore the supporting portfolio:
+
+- [Agentic AI portfolio on GitHub](https://github.com/BankyBluePrints/agentic-ai-portfolio)
+- [Program e-portfolio](https://www.mygreatlearning.com/portfolio/banky)
+
+### 🚀 Selected work
+
+- [BankyBlueprints](https://bankyblueprints.com) — articles and practical blueprints for software engineering, architecture and AI
+- [Professional profile](https://me.bankyblueprints.com) — experience, certifications and selected achievements
+- [Agentic AI Portfolio](https://github.com/BankyBluePrints/agentic-ai-portfolio) — summaries of my Johns Hopkins Agentic AI projects
+- [Banky Smart Prompts](https://github.com/BankyBluePrints/banky-smart-prompts) — reusable prompts and workflow templates
+- [DataMgtCoreAPI](https://github.com/BankyBluePrints/DataMgtCoreAPI) — ASP.NET Core Web API and Dapper reference project
+
+### 🏆 Certifications and recognition
+
+- **Microsoft MVP**, Visual Studio and Development Technologies, 2016–2017
+- **4× C# Corner MVP**
+- **Johns Hopkins University Agentic AI program**, 2026
+- **Microsoft Certified: Azure Fundamentals**
 
 ### 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bankynarayan/)
-[![Blog](https://img.shields.io/badge/Blog-bankyblueprints.com-FF5722)](https://bankyblueprints.com)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/BankyBlueprints)
-
----
-
-*Seeking Principal Engineer / Agentic AI Practitioner roles — building intelligent automation at enterprise scale as a hands-on technical leader.*
+[![Website](https://img.shields.io/badge/BankyBlueprints-Website-2563EB)](https://bankyblueprints.com)
+[![Profile](https://img.shields.io/badge/Professional-Profile-0F766E)](https://me.bankyblueprints.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Banketeshvar_Narayan-0A66C2?logo=linkedin)](https://www.linkedin.com/in/bankynarayan/)
+[![GitHub](https://img.shields.io/badge/GitHub-BankyBluePrints-181717?logo=github)](https://github.com/BankyBluePrints)
