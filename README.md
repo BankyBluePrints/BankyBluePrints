@@ -31,15 +31,13 @@ I completed the 16-week **Agentic AI program from Johns Hopkins University**, wi
 Explore the supporting portfolio:
 
 - [Agentic AI portfolio on GitHub](https://github.com/BankyBluePrints/agentic-ai-portfolio)
-- [Program e-portfolio](https://www.mygreatlearning.com/portfolio/banky)
+- [Program e-portfolio](https://www.mygreatlearning.com/eportfolio/banketeshvar-narayan)
 
 ### 🚀 Selected work
 
 - [BankyBlueprints](https://bankyblueprints.com) — articles and practical blueprints for software engineering, architecture and AI
 - [Professional profile](https://me.bankyblueprints.com) — experience, certifications and selected achievements
-- [Agentic AI Portfolio](https://github.com/BankyBluePrints/agentic-ai-portfolio) — summaries of my Johns Hopkins Agentic AI projects
 - [Banky Smart Prompts](https://github.com/BankyBluePrints/banky-smart-prompts) — reusable prompts and workflow templates
-- [DataMgtCoreAPI](https://github.com/BankyBluePrints/DataMgtCoreAPI) — ASP.NET Core Web API and Dapper reference project
 
 ### 🏆 Certifications and recognition
 
